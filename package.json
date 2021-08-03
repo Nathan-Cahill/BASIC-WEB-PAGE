@@ -1,0 +1,25 @@
+{
+  "name": "basic-web-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nathan-Cahill/BASIC-WEB-PAGE.git"
+  },
+  "keywords": [
+    "java"
+  ],
+  "author": "Nathan Cahill",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nathan-Cahill/BASIC-WEB-PAGE/issues"
+  },
+  "homepage": "https://github.com/Nathan-Cahill/BASIC-WEB-PAGE#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
